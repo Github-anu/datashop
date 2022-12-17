@@ -1,7 +1,26 @@
-hi there is no file
-<<<<<<< HEAD
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
 
-there is moment to exist
-=======
-we have online class
->>>>>>> 5e49661aa77a05a0a991529e769a0b6f8b5a9fe4
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>ONDEMANDLABS</h1>
+<p>This is a AWS Session.</p>
+
+</body>
+</html>
