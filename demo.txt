@@ -1,3 +1,7 @@
 hi there is no file
+<<<<<<< HEAD
 
 there is moment to exist
+=======
+we have online class
+>>>>>>> 5e49661aa77a05a0a991529e769a0b6f8b5a9fe4
